@@ -1,9 +1,9 @@
 ### Hello!
-I'm Steank (he/him or they/them). I'm a cybersecurity student with a general interest in IT and computer programming.
+I'm Steank. I've got a bachelor's degree in cybersecurity, and I've had a general interest in IT and computer programming for most of my life.
 
 Most READMEs have a fancy banner displaying their Github statistics, but I'm a big plaintext enjoyer, so here goes.
 
-I specialize in Java, but I am fluent enough to get by in:
+I specialize in Java, but I am fluent in:
  * Kotlin
  * C#
  * Rust
