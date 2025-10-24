@@ -1,5 +1,5 @@
 ### Hello!
-I'm Steank. I've got a bachelor's degree in cybersecurity, and I've had a general interest in IT and computer programming for most of my life.
+I'm Kyle. I've got a bachelor's degree in cybersecurity, and I've had a general interest in IT and computer programming for most of my life.
 
 Most READMEs have a fancy banner displaying their Github statistics, but I'm a big plaintext enjoyer, so here goes.
 
